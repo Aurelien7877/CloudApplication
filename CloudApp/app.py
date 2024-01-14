@@ -2,7 +2,7 @@ import streamlit as st
 from pymongo import MongoClient
 import pandas as pd
 import time
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 from collections import Counter
 from datetime import datetime
 import re
